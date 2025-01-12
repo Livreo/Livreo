@@ -21,7 +21,7 @@ export function DashboardLayout({ children }: DashboardLayoutProps) {
       {/* Sidebar */}
       <div className="fixed inset-y-0 left-0 w-64 bg-white border-r">
         <div className="flex items-center h-16 px-6 border-b">
-          <img src="src/public/img/LIVREO3.png" alt="Logo Livreo" className="h-10 w-10"/>
+          <img src="/public/img/LIVREO3.png" alt="Logo Livreo" className="h-10 w-10"/>
           <span className="ml-2 text-xl font-bold">LIVREO</span>
         </div>
         <nav className="p-4 space-y-2">

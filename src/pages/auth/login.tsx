@@ -26,7 +26,7 @@ export function LoginPage() {
       <div className="max-w-md w-full space-y-8">
         <div className="text-center">
           <div className="flex justify-center">
-            <img src="src/public/img/LIVREO1.png" alt="Logo Livreo" className="h-60 w-60"/>
+            <img src="/public/img/LIVREO1.png" alt="Logo Livreo" className="h-60 w-60"/>
           </div>
           <h2 className="mt-6 text-3xl font-extrabold text-gray-900">
             Connectez-vous à votre compte
